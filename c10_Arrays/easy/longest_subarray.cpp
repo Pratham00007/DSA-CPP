@@ -5,7 +5,7 @@ Given an array and a sum k, we need to print the length of the longest subarray 
 #include<bits/stdc++.h>
 using namespace std;
 
-// Brute force
+// Brute force -> not proper
 int subarray(vector<int> arr,int n,int target){
     int sum;
     int j=0;
