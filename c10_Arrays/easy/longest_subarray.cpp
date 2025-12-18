@@ -5,23 +5,36 @@ Given an array and a sum k, we need to print the length of the longest subarray 
 #include<bits/stdc++.h>
 using namespace std;
 
-// Brute force -> not proper
-int subarray(vector<int> arr,int n,int target){
-    int sum;
-    int j=0;
-    for(int k=0;k<n;k++){
-    for (int i=k;i<n;i++){
-        sum=0;
-        for(int j=k;j<i;j++){
-            sum+=arr[j];
-            if (sum==target){
-                return j-k+1;
+// Brute force ->mine
+
+int subarray3(vector<int> arr,int n,int target){
+    int len=0;
+    for (int i=0;i<n;i++){
+        vector<int> temp;
+        
+        for (int j=i;j<n;j++){
+            temp.push_back(arr[j]);
+            if (accumulate(temp.begin(),temp.end(),0)==target && temp.size()>len){
+                len=temp.size();
             }
         }
-
     }
+    return len;
 }
-    return -99;
+
+// bruteforce sir
+int subarray4(vector<int> arr,int n,int target){
+    int len=0;
+    for (int i=0;i<n;i++){
+        int sum=0;
+        for (int j=i;j<n;j++){
+           sum+=arr[j];
+           if (sum==target){
+            len=max(len,j-i+1);
+           }
+        }
+    }
+    return len;
 }
 
 // better -> samjh nhi aaya
@@ -60,6 +73,24 @@ int subarray2(vector<int> arr,int n,int target){
     return maxlen;
 }
 
+int subarray5(vector<int> arr,int n,int target){
+    int i=0;
+    int j=0;
+    int len=0;
+    int sum=0;
+    while(j<n){
+        sum+=arr[j];
+        if (sum>target){
+            sum=sum-arr[i];
+            i++;
+            len=max(len,j-i+1);
+        }
+        len=j-i+1;
+        j++;
+    }
+    return len;
+}
+
 
  int main(){
     cout<<"ENTER NO OF ELEMENTS: ";
@@ -74,5 +105,5 @@ int subarray2(vector<int> arr,int n,int target){
     int target;
     cout<<"Enter the target";
     cin>>target;
-    cout<<"max size of sub array "<<subarray2(arr,n,target);
+    cout<<"max size of sub array "<<subarray5(arr,n,target);
  }

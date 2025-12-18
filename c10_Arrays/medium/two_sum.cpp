@@ -54,6 +54,37 @@ vector<int> sum_two(vector<int> a,int n,int target){
     
 }
 
+// better
+vector <int> sum_two2(vector<int> arr,int n,int target){
+    map<int,int> mpp;
+    for(int i=0;i<n;i++){
+        int a=arr[i];
+        int more=target-a;
+        if(mpp.find(more) != mpp.end()){
+            return {mpp[more],i};
+        }
+        mpp[a]=i;
+    }
+    return {-1,-1};
+}
+
+// optimal
+string sum_two3(vector<int> arr,int n,int target){
+    int left=0,right=n-1;
+    sort(arr.begin(),arr.end());
+    while(left<right){
+        int sum=arr[left]+arr[right];
+        if (sum==target){
+            return "Yes";
+        }
+        else if (sum<target) left++;
+        else right++;
+
+        
+    }
+}
+
+
 int main(){
     cout<<"Enter no of elements:";
     int n;
