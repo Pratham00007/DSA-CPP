@@ -21,6 +21,45 @@ Explanation: After counting the number of times each element appears and compari
 #include <bits/stdc++.h>
 using namespace std;
 
+// brute force
+int max_n2(vector<int> arr,int n){
+    for (int i=0;i<n;i++){
+        int cnt=0;
+        for (int j=0;j<n;j++){
+            if (arr[j]==arr[i]) cnt++;
+
+        }
+        if (cnt>=n/2) return arr[i]; 
+    }
+    return 0;
+}
+
+
+// better: hasing - counting sort technique
+int max_n3(vector<int> arr, int n){
+
+    map<int,int>mpp;
+    for(int i=0;i<n;i++){
+        mpp[arr[i]]++;
+    }
+    for (auto it:mpp){
+        if (it.second>=n/2){
+            return it.first;
+        }
+    }
+
+    return -1;
+
+    // tc: O(N)+O(nlogtgn)
+    // sc: O(n)
+
+    
+}
+
+// MOONE VOTING ALGORITHM -> OPTRIMALO
+
+
+// mine
 int max_n(vector<int> arr, int n){
     set<int> a;
     int times=0;
@@ -33,11 +72,13 @@ int max_n(vector<int> arr, int n){
                 times++;
             }
         }
-        if (times>n/2){
+        if (times>=n/2){
             return it;
         }
     }
 }
+
+// or use counting sort technique 
 int main(){
     int n;
     cout<<"Enter no of Elements: ";
@@ -49,5 +90,5 @@ int main(){
         arr.push_back(temp);
     }
     cout<<"Required Element: "<<endl;
-    cout<<max_n(arr,n);
+    cout<<max_n3(arr,n);
 }
