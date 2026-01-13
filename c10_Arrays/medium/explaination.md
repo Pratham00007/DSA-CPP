@@ -17,3 +17,7 @@ mosse's voting algo
 ![alt text](image-6.png)
 
 ![alt text](image-7.png)
+
+keedans algo
+
+![alt text](image-8.png)
