@@ -30,6 +30,72 @@ Explanation:
 #include<bits/stdc++.h>
 using namespace std;
 
+// sir
+
+// brute force
+bool ls(vector<int>arr,int ele){
+    for(int i=0;i<arr.size();i++){
+        if (arr[i]==ele){return true;}
+        
+    }return false;
+}
+int subsequent2(vector<int> arr,int n){
+    int longest=1;
+    for(int i=0;i<n;i++){
+        int cnt=1;
+        int ele=arr[i];
+        while(ls(arr,ele+1)==true){
+            ele++;
+            cnt++;
+        }
+        longest=max(longest,cnt);
+    }
+    return longest;
+
+}
+// better
+int subsequent3(vector<int>arr,int n){
+    sort(arr.begin(),arr.end());
+    int last_smallest=INT_MIN;
+    int longest=1;
+    int cnt=0;
+    for(int i=0;i<n;i++){
+        if(arr[i]-1==last_smallest){
+            cnt++;
+            last_smallest=arr[i];
+        }else if(arr[i]-1 != last_smallest){
+            cnt=1;
+            last_smallest=arr[i];
+        }
+        longest=max(longest,cnt);
+    }
+    return longest;
+}
+
+
+// otimalal -> not u
+
+int subsequent4(vector<int> arr,int n){
+    int longest=1;
+    unordered_set<int> st;
+    for(int i=0;i<n;i++){
+        st.insert(arr[i]);
+    }
+
+    for(auto it:st){
+        if(st.find(it-1)==st.end()){
+            int cnt=1;
+            int x=it;
+            while(st.find(x+1)!=st.end()){
+                x=x+1;
+                cnt=cnt+1;
+
+            }
+            longest=max(longest,cnt);
+        }
+    }
+    return longest;
+}
 
 // mine
 
@@ -59,7 +125,7 @@ int main(){
         arr.push_back(temp);
     }
 
-    cout<<subsequent(arr,n);
+    cout<<subsequent4(arr,n);
     
     
 }

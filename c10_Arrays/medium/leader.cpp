@@ -33,7 +33,7 @@ vector <int> leader(vector<int> arr,int n){
 vector <int> leader2(vector<int> arr,int n){
     int maxi=INT_MIN;
     vector<int> lead;
-    for(int i=n-61;i>=0;i--){
+    for(int i=n;i>=0;i--){
         if (arr[i]>maxi){
             lead.push_back(arr[i]);
             maxi=arr[i];
