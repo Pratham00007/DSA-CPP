@@ -15,8 +15,57 @@ Explanation:Since matrix[0][0]=0 and matrix[0][3]=0. Therefore 1st row, 1st colu
 #include <bits/stdc++.h>
 using namespace std;
 
-int main(){
-    vector<vector<int>> arr;
+void zero1(vector<vector<int>>&arr){
+    int m=arr.size(); // no of rows
+    int n=arr[0].size(); // no of columns
+
+
+    for(int i=0;i<m;i++){
+        for(int j=0;j<n;j++){
+            if(arr[i][j] == 0){
+                // marking row with -1
+                for(int col=0;col<n;col++){
+                    if(arr[i][col]!=0){
+                        arr[i][col]=-1;
+                    }
+                }
+                // mark col with -1
+                for(int row=0;row<m;row++){
+                    if (arr[row][j]!=0){
+                        arr[row][j]=-1;
+                    }
+                }
+            }
+
+        }
+        
+    }
+
+    // replace all-1 with 0 now
+    for(int i=0;i<m;i++){
+        for(int j=0;j<n;j++){
+            if (arr[i][j]==-1){
+                arr[i][j]=0;
+            }
+        }
+    }
     
+}
+
+
+int main(){
+     // Example matrix
+    vector<vector<int>> matrix = {{1,1,1},{1,0,1},{1,1,1}};
+    
+    zero1(matrix);
+    
+    // Print final matrix
+    for (auto row : matrix) {
+        for (auto val : row) {
+            cout << val << " ";
+        }
+        cout << endl;
+    }
+    return 0;
 
 }
