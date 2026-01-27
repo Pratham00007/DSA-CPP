@@ -17,6 +17,7 @@ Explanation: The subarrays that sum up to 3 are [1, 2], and [3].
 #include <bits/stdc++.h>
 using namespace std;
 
+
 // mine
 int subarr(int n,int arr[],int k){
     int cnt=0;
@@ -34,7 +35,31 @@ int subarr(int n,int arr[],int k){
     return cnt;
 }
 
+
+// trying two pointer approach
+
+int subarr2(int n,int arr[],int k){
+    int i=0,j=0;
+    int sum=0;
+    int cnt=0;
+    while(j<n){
+        if (sum==k){
+            cnt++;
+        }
+        while(sum>k){
+            sum=sum-arr[i];
+            i++;
+        }
+        
+        sum+=arr[j];
+        j++;
+        
+    }
+    return cnt;
+}
+
+
 int main(){
-    int arr[3]={1,2,3};
-    cout<<subarr(3,arr,3);
+    int arr[10]={1,2,3,-3,1,1,1,4,2,-3};
+    cout<<subarr2(10,arr,3);
 }
