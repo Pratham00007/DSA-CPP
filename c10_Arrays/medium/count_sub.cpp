@@ -17,6 +17,25 @@ Explanation: The subarrays that sum up to 3 are [1, 2], and [3].
 #include <bits/stdc++.h>
 using namespace std;
 
+// sir
+// brute O(n3) just mine + one more loop till j again
+// better same as mine O(n2)
+// optimal O(n) sc:O(n)
+
+int subarr3(int n,int arr[],int k){
+    map<int,int> mpp;
+    int cnt=0,prefix_sum=0;
+    mpp[0]=1;
+    for(int i=0;i<n;i++){
+        prefix_sum+=arr[i];
+        int remove=prefix_sum-k;
+        cnt+=mpp[remove];
+        mpp[prefix_sum]+=1;
+
+    }
+    return cnt;
+}   
+
 
 // mine
 int subarr(int n,int arr[],int k){
@@ -60,6 +79,6 @@ int subarr2(int n,int arr[],int k){
 
 
 int main(){
-    int arr[10]={1,2,3,-3,1,1,1,4,2,-3};
-    cout<<subarr2(10,arr,3);
+    int arr[10]={3, 1, 2, 4};
+    cout<<subarr3(4,arr,6);
 }
