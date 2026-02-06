@@ -57,6 +57,29 @@ public:
         }
 };
 
+// better look for third element  = - (first + second)
+
+class Solution2 {
+public:
+        vector<vector<int>> threeSum(vector<int>& arr) {
+            int n = arr.size();
+            set<vector<int>>st;
+            for(int i=0;i<n;i++){
+                set<int>hashset; // reintialze to emty again when start
+                for(int j=i+1;j<n;j++){
+                    int third=-(arr[i]+arr[j]);
+                    if(hashset.find(third)!=hashset.end()){ // must not be last ie must be in set 
+                        vector<int> temp={arr[i],arr[j],third};
+                        sort(temp.begin(),temp.end());
+                        st.insert(temp);
+                    }
+                    hashset.insert(arr[j]);
+                }
+            }
+            vector<vector<int>>ans(st.begin(),st.end());
+            return ans;
+        }
+    };
 // mine same to sir
 
 class Solution {
@@ -85,7 +108,7 @@ public:
 int main() {
     vector<int> arr = {-1, 0, 1, 2, -1, -4};
     int n = arr.size();
-    Solution1 obj;
+    Solution2 obj;
     vector<vector<int>> res = obj.threeSum(arr);
 
     for (auto &triplet : res) {
