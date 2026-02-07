@@ -80,6 +80,39 @@ public:
             return ans;
         }
     };
+
+// optimal
+
+
+class Solution3 {
+public:
+        vector<vector<int>> threeSum(vector<int>& arr) {
+            int n = arr.size();
+            vector<vector<int>>ans;
+            sort(arr.begin(),arr.end());
+            for(int i=0;i<n;i++){
+                if(i>0 && arr[i]==arr[i-1]) continue; //that is skip the rest of code
+                int j=i+1, k=n-1;
+                while (j<k)
+                {
+                    int sum=arr[i]+arr[j]+arr[k];
+                    if(sum<0){
+                        j++;
+                    }else if(sum>0){
+                        k--;
+                    }else{
+                        vector<int>temp={arr[i],arr[j],arr[k]};
+                        ans.push_back(temp);
+                        j++;k--;
+                        while(j<k && arr[j]==arr[j-1])j++;
+                        while(k>j && arr[k]==arr[k+1])k--;
+                    }
+                }
+                
+            }
+            return ans;
+        }
+    };
 // mine same to sir
 
 class Solution {
@@ -108,7 +141,7 @@ public:
 int main() {
     vector<int> arr = {-1, 0, 1, 2, -1, -4};
     int n = arr.size();
-    Solution2 obj;
+    Solution3 obj;
     vector<vector<int>> res = obj.threeSum(arr);
 
     for (auto &triplet : res) {
@@ -117,3 +150,4 @@ int main() {
     }
     return 0;
 }
+
