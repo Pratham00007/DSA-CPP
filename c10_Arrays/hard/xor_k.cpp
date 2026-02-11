@@ -22,6 +22,20 @@ using namespace std;
 // brute O(n^3)
 // better O(n^2) same as mine
 // optimal 
+int answ2(vector<int>a,int k){
+    int xr=0;
+    map<int,int>mpp;
+    mpp[xr]++;
+    int cnt=0;
+    for(int i=0;i<a.size();i++){
+        xr=xr^a[i];
+        int x=xr^k;
+        cnt+=mpp[k];
+        mpp[xr]++;
+    }
+    return cnt;
+}
+
 
 // mine
 int answ(vector<int> arr,int target){
@@ -40,6 +54,6 @@ int answ(vector<int> arr,int target){
 int main(){
     vector<int>arr1={4, 2, 2, 6, 4};
     
-        cout<<answ(arr1,6);
+        cout<<answ2(arr1,6);
     }
 
