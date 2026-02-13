@@ -19,6 +19,31 @@ Explanation :  Since intervals [1,4] and [4,5] are overlapping we can merge them
 #include<bits/stdc++.h>
 using namespace std;
 
+// sir
+
+vector<vector<int>>ans(vector<vector<int>> arr){
+    int n=arr.size();
+    vector<vector<int>>answ;
+    sort(arr.begin(),arr.end());
+    for(int i=0;i<n;i++){
+        int st=arr[i][0];
+        int end=arr[i][1];
+
+        if(!answ.empty() && end<=answ.back()[1]){
+            continue;
+        }
+        for(int j=i+1;j<n;j++){
+            if(arr[j][0] <=end){
+                end=max(end,arr[j][1]);
+            }else{break;}
+        }
+        answ.push_back({st,end});
+    }
+    return answ;
+
+
+}
+
 
 // mine 
 
