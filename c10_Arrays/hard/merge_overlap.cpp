@@ -44,6 +44,20 @@ vector<vector<int>>ans(vector<vector<int>> arr){
 
 }
 
+// better
+vector<vector<int>>ans(vector<vector<int>> arr){
+    int n=arr.size();
+    vector<vector<int>>answ;
+    sort(arr.begin(),arr.end());
+    for(int i=0;i<n;i++){
+        if(answ.empty() || arr[i][0]>answ.back()[1]){
+            answ.push_back(arr[i]);
+        }else{
+            answ.back()[1]=max(answ.back()[1],arr[i][1]);
+        }
+    }
+    return answ;
+}
 
 // mine 
 
