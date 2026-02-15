@@ -26,7 +26,39 @@ using namespace std;
 class Solution {
 public:
 
+// sir brute force-> using arr3
+// optimal->shell sort gap method
 
+void swapifGreater(long long arr1[],long long arr2[],int id1,int id2){
+    if(arr1[id1]>arr2[id2]){
+        swap(arr1[id1],arr2[id2]);
+    }
+}
+void merge2(long long arr1[],long long arr2[],int n,int m) {
+    int len=n+m;
+    int gap=(len/2)+(len%2);
+    while(gap>0){
+        int left=0;
+        int right=left+gap;
+        while(right<len){
+            // arr1 and arr2
+            if(left<n && right>=n){
+                swapifGreater(arr1,arr2,left,right-n);
+            }
+            // arr2 and arr2
+            else if(left>=n){
+                swapifGreater(arr2,arr2,left-n,right-n);
+            }
+            // arr1 and arr1
+            else{
+                swapifGreater(arr1,arr1,left,right);
+            }
+            left++,right++;
+        }
+        if(gap==1) break;
+        gap=(gap/2)+(gap%2);
+    }
+}
 
 // mine
 // brute -> in place of zero insert nums2 elements then sort
