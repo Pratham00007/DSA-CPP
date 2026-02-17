@@ -30,6 +30,29 @@ Explanation:
 
 #include <bits/stdc++.h>
 using namespace std;
+
+// sir ->brute O(n^2) we knows it goes from 1 to n
+vector<int>mis2(vector<int>arr){
+    int n=arr.size();
+    vector<int>ans={-1,-1};
+    for(int i=1;i<n;i++){
+        int cnt=0;
+        for(int j=0;j<n;j++){
+            if (arr[j]==i){
+                cnt++;
+            }
+            // double
+            if(cnt==2){ans[0]=arr[i];}
+            // missing
+            if(cnt==0){
+                ans[1]=arr[i];
+            }
+            if(ans[0]!=-1 && ans[1]!=-1) break;
+        }
+    }
+}
+
+// mine O(n)
 vector<int>mis(vector<int>arr){
     int n=arr.size();
     vector<int>ans={-1,-1};
@@ -44,6 +67,11 @@ vector<int>mis(vector<int>arr){
     }
 return ans;
 }
+
+
+
+
+
 int main(){
 vector<int> nums = {3, 5, 4, 1, 1};
     
