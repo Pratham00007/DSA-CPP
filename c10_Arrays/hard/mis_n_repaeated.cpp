@@ -52,6 +52,27 @@ vector<int>mis2(vector<int>arr){
     }
 }
 
+// sir better tc=O(2n) sc=O(n)
+vector<int>mis3(vector<int>arr){
+    int n=arr.size();
+    int hash[n+1]={0};
+    for(int i=0;i<n;i++){
+        hash[arr[i]++];
+    }
+
+    int miss=-1,repe=-1;
+    for(int i=1;i<=n;i++){
+        if(hash[i]==2) repe=i;
+        else if(hash[i]==0) miss=i;
+
+        if(miss!=-1 && repe!=-1){
+            break;
+        }
+    }
+    return {repe,miss};
+
+}
+
 // mine O(n)
 vector<int>mis(vector<int>arr){
     int n=arr.size();
@@ -78,7 +99,7 @@ vector<int> nums = {3, 5, 4, 1, 1};
     // Create an instance of Solution class
     
 
-    vector<int> result = mis(nums);
+    vector<int> result = mis3(nums);
     
     // Print the repeating and missing numbers found
     cout << "The repeating and missing numbers are: {" << result[0] << ", " << result[1] << "}\n";
