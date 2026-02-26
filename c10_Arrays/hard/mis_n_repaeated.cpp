@@ -73,6 +73,29 @@ vector<int>mis3(vector<int>arr){
 
 }
 
+vector<int>mis4(vector<int>a){
+    // explaijnation present
+    // sum of n  and sum of square of n make 2 eq solve and get the missing
+
+    long long n=a.size();
+    // S-Sn=x-y
+    // s2=-s2n
+    long long sn=(n*(n+1))/2;
+    long long s2n=(n*(n+1)*(2*n+1))/6;
+    long long s=0,s2=0;
+    for(int i=0;i<n;i++){
+        s+=a[i];
+        s2+=(long long )a[i]*(long long )a[i];
+    }
+    long long val1=s-sn; //x-y
+    long long val2=s2-s2n; 
+    val2=val2/val1; //x+y
+    long long x=(val1+val2)/2;
+    long long y=x-val1;
+    return {(int)x,(int)y};
+}
+
+
 // mine O(n)
 vector<int>mis(vector<int>arr){
     int n=arr.size();
