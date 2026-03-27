@@ -3,7 +3,7 @@
 // need to do
 
 #include<bits/stdc++.h>
-using namespace std
+using namespace std;
 
 int fib(int num){
     if (num == 0 || num==1){
@@ -17,7 +17,7 @@ int fib(int num){
     int sum=fir+sec;
     
     for (int i=0;i<=num;i++){
-    temp=sum;
+    int temp=sum;
     cout<<sum;
     sum+=temp;
     }
