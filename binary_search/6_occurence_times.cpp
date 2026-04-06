@@ -23,5 +23,23 @@ Output
 : 5
 Explanation:
  2 is occurring 5 times in the given array so it is our answer.
- 
+
 */
+
+
+#include <bits/stdc++.h>
+using namespace std;
+
+// mine optimal-> ub-lb
+int occ(vector<int>arr,int target){
+    int ub=upper_bound(arr.begin(),arr.end(),target)-arr.begin();
+    int lb=lower_bound(arr.begin(),arr.end(),target)-arr.begin();
+    return ub-lb;
+}
+
+// sir SAME AS YOURS
+
+int main(){
+    vector<int>arr={1, 1, 2, 2, 2, 2, 2, 3};
+    cout<<occ(arr,2);
+}

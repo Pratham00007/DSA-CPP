@@ -46,6 +46,7 @@ int lb(vector<int>arr, int target){
     
 }
 
+// sir lb as ans 
 
 int main(){
     vector<int>arr={1,2,4,7};

@@ -22,7 +22,7 @@ Explanation: The floor of 8 in the array is 8, and the ceiling of 8 in the array
 using namespace std;
 
 // mine same brute O(n)
-// better O(logn) ligic if present tehn retun same in both else upper bound and up-1
+// better O(logn) logic if present then return same in both else upper bound and up-1
 
 vector<int> ub(int arr[],int n, int target){
     
@@ -43,6 +43,8 @@ vector<int> ub(int arr[],int n, int target){
     }
     return {arr[ans-1],arr[ans]};
 }
+
+// sir same lb
 
 int main(){
     

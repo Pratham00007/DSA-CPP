@@ -1,7 +1,9 @@
 /*
 Last occurrence in a sorted array
 
-Problem Statement: Given a sorted array of N integers, write a program to find the index of the last occurrence of the target key. If the target is not found then return -1. Note: Consider 0 based indexing
+Problem Statement: Given a sorted array of N integers, write a program to find 
+the index of the last occurrence of the target key. If the target is not found then return -1. 
+Note: Consider 0 based indexing
 
 Examples
 Example 1:
@@ -26,7 +28,7 @@ Explanation:
 using namespace std;
 
 
-// mine find ub-1
+// mine find ub-1 for last and for first occurenece lb
 int l_index(vector<int>arr, int target)
 {
     int n=arr.size();
@@ -44,10 +46,12 @@ int l_index(vector<int>arr, int target)
     return ans;
 }
 
-// trying in same code for least and highest index
+
+// sir brite linear search and optimal ->same used different up and lb func 
+// O(2logn)
 
 int main(){
     vector<int>arr={3, 4, 13, 13, 13, 20, 40};
-    cout<<l_index(arr,0);
+    cout<<l_index(arr,13);
 
 }
