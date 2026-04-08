@@ -31,3 +31,39 @@ using namespace std;
 // 2. sort then search
 // 3. find the rotated index and then search in 2 aray 
 
+// sir
+// you go to some index now from there you can see if starting is less then that it means left half is sorted na
+
+// see here we see from mid if its sorted then check if leelment in left half
+// if element is not in left half remoive from search
+
+int search(vector<int>arr , int target){
+    int high=arr.size()-1,low=0;
+    while (low<=high)
+    {
+        int mid=(low+high)/2;
+        if (arr[mid]==target){
+            return mid;
+        }
+
+        // now checking if left half is sorted
+        if(arr[low]<=arr[high]){
+            // now check if elemnt is in left half
+            if(target>=arr[low] && target <=arr[high]){
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
+            }
+
+    }
+    else{
+        if(target>=arr[mid] && target <= arr[high]){
+            low=mid+1;
+        }else{
+            high=mid-1;
+        }
+    }
+    return -1;
+
+}
