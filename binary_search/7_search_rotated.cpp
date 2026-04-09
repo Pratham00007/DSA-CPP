@@ -64,6 +64,9 @@ int search(vector<int>arr , int target){
             high=mid-1;
         }
     }
+    }
+    
     return -1;
+
 
 }
