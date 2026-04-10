@@ -54,12 +54,43 @@ bool search(vector<int>arr, int target){
     
 }
 
+// sir see the edge case in ss
+// can't use the earlier way in that edge case 
+// for that shrink the array
+
+bool search2(vector<int>arr, int k){
+    int n=arr.size();
+    int l=0,h=n-1;
+    while(l<=h){
+        int mid=(h+l)/2;
+        if(arr[mid]==k) return true;
+        if(arr[l]==arr[mid] && arr[mid]==arr[h]){
+            l++,h--;
+            continue;
+        }
+
+        if(arr[l] <= arr[mid]){
+            if(arr[l]<=k && k<=arr[mid]){
+                h=mid-1;
+            }else{
+                l=mid+1;
+            }
+        }else{
+            if(arr[mid]<=k && k<=arr[h]){
+            l=mid+1;}else{
+                h=mid-1;
+            }
+        }
+    }
+    return false;
+}
+
 int main() {
     vector<int> arr = {7, 8, 1, 2, 3, 3, 3, 4, 5, 6};
     int k = 3;
 
    
-    bool ans = search(arr, k);
+    bool ans = search2(arr, k);
 
     // Print result
     if (!ans)

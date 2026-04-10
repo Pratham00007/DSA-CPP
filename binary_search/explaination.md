@@ -10,3 +10,7 @@ occurence brute
 
 FIRST_N_LAST WITHOUT LB AND UB USE BINARY
 ![alt text](image-3.png)
+
+Is target exist in rotated dublicate array
+![alt text](image-4.png)
+

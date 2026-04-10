@@ -37,36 +37,50 @@ using namespace std;
 // see here we see from mid if its sorted then check if leelment in left half
 // if element is not in left half remoive from search
 
-int search(vector<int>arr , int target){
-    int high=arr.size()-1,low=0;
-    while (low<=high)
-    {
-        int mid=(low+high)/2;
-        if (arr[mid]==target){
-            return mid;
-        }
-
-        // now checking if left half is sorted
-        if(arr[low]<=arr[high]){
-            // now check if elemnt is in left half
-            if(target>=arr[low] && target <=arr[high]){
-                high=mid-1;
-            }
-            else{
-                low=mid+1;
-            }
-
-    }
-    else{
-        if(target>=arr[mid] && target <= arr[high]){
-            low=mid+1;
-        }else{
-            high=mid-1;
-        }
-    }
-    }
+int search(vector<int>nums , int target){
     
-    return -1;
+        // Set the search space to entire array
+        int low = 0;
+        int high = nums.size() - 1;
 
+        // Continue until the search space becomes invalid
+        while (low <= high) {
+
+            // Find the middle index
+            int mid = (low + high) / 2;
+
+            // If the target is found at mid, return mid
+            if (nums[mid] == target)
+                return mid;
+
+            // Check if the left half is sorted
+            if (nums[low] <= nums[mid]) {
+
+                // If target lies in the sorted left half, search there
+                if (nums[low] <= target && target < nums[mid]) {
+                    high = mid - 1;
+                }
+                // Else search in the right half
+                else {
+                    low = mid + 1;
+                }
+            }
+
+            // Otherwise, right half is sorted
+            else {
+
+                // If target lies in the sorted right half, search there
+                if (nums[mid] < target && target <= nums[high]) {
+                    low = mid + 1;
+                }
+                // Else search in the left half
+                else {
+                    high = mid - 1;
+                }
+            }
+        }
+
+        // If not found, return -1
+        return -1;
 
 }
