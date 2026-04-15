@@ -24,7 +24,7 @@ Explanation : The minimum element in the array is 1.
 #include<bits/stdc++.h>
 using namespace std;
 
-int min(vector<int>arr){
+int find_min(vector<int>arr){
     int low=0, high=arr.size()-1;
     int ans=INT_MAX;
     while(low<=high){
@@ -40,6 +40,15 @@ int min(vector<int>arr){
     return ans;
 }
 
-int main(){
 
+int main() {
+    // Example input
+    vector<int> arr = {4,5,6,7,0,1,2,3};
+
+    // Call the function and store result
+    int rotations = find_min(arr);
+
+    // Print result
+    cout << rotations << endl;
+    return 0;
 }
