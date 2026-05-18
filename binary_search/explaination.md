@@ -14,3 +14,19 @@ FIRST_N_LAST WITHOUT LB AND UB USE BINARY
 Is target exist in rotated dublicate array
 ![alt text](image-4.png)
 
+prb 11 brute
+![alt text](image-5.png)
+
+better
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+for edge case removal low and high are not from laast and first
+see left and right of the number  
+elminate the half by seeing if odd position is equal to my number elminate right
+if even is my number conatin so eleminate the left
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+![alt text](image-10.png)
