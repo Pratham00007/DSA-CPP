@@ -46,7 +46,7 @@ int single(vector<int> arr){
         // if dublicate element pair are like even,odd so we are on left side else on right side
 
         // left side check
-        if(n%2==1 && arr[mid]==arr[mid-1] || n%2==0 && arr[mid]==arr[mid+1]){
+        if(mid%2==1 && arr[mid]==arr[mid-1] || mid%2==0 && arr[mid]==arr[mid+1]){
             low=mid+1;
         }else{
             high=mid-1;
