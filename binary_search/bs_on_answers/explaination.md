@@ -26,3 +26,6 @@ boquete
 optimized bs
 
 ![alt text](image-8.png)
+
+divisor brute
+![alt text](image-9.png)
