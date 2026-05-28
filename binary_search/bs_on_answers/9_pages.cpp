@@ -31,6 +31,7 @@ Explanation: The allocation of books will be 25, 46 | 28 | 49 | 24.
 #include <bits/stdc++.h>
 using namespace std;
 
+    
 int countStudents(vector<int>arr, int pages){
     int students=1;
     long long pagesstudent=0;
@@ -48,9 +49,11 @@ int countStudents(vector<int>arr, int pages){
     return students;
 }
 
+
 int findpages(vector<int>arr, int n,int m){
-    int low=*min_element(arr.begin(),arr.end());
-    int high= accumulate(arr.begin(),arr.end(),1);
+    int low=*max_element(arr.begin(),arr.end());
+    if(m>n) return -1;
+    int high= accumulate(arr.begin(),arr.end(),0);
     while(low<=high){
         int mid=(low+high)/2;
         int students=countStudents(arr,mid);
