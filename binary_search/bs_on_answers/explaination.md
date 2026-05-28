@@ -74,3 +74,15 @@ optimal
 ![alt text](image-25.png)
 
 ![alt text](image-26.png)
+
+pages
+
+![alt text](image-27.png)
+![alt text](image-28.png)
+
+bs optimal
+![alt text](image-29.png)
+
+when stops at oppposite polarity of starting so its low which is answer in binary search
+![alt text](image-30.png)
+
