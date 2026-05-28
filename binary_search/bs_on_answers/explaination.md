@@ -61,3 +61,16 @@ formula for arr[high]
 
 ![alt text](image-21.png)
 
+aggressive cows
+
+![alt text](image-22.png)
+
+![alt text](image-23.png)
+
+![alt text](image-24.png)
+
+optimal
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
