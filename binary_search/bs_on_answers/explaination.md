@@ -37,3 +37,27 @@ ship brute
 
 better
 ![alt text](image-13.png)
+
+kth missing
+
+![alt text](image-14.png)
+
+OPTIMAL
+![alt text](image-15.png)
+1 se index minus no present there = no that are missing
+
+![alt text](image-16.png)
+
+1st find neaerst index
+2nd find the number
+![alt text](image-17.png)
+
+formula for arr[high]
+![alt text](image-18.png)
+
+![alt text](image-19.png)
+
+![alt text](image-20.png)
+
+![alt text](image-21.png)
+
