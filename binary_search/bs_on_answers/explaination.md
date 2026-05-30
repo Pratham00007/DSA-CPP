@@ -86,3 +86,15 @@ bs optimal
 when stops at oppposite polarity of starting so its low which is answer in binary search
 ![alt text](image-30.png)
 
+gas station
+
+brute -> ek baar salene ke baad apne wale ko hta sakte lekin jo 
+que mai hai unhe nhi 
+![alt text](image-31.png)
+
+ better
+priority queue
+stores in deceding ie high to low
+![alt text](image-32.png)
+
+![alt text](image-33.png)
