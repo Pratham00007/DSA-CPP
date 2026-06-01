@@ -102,3 +102,26 @@ stores in deceding ie high to low
 optimal bs
 
 ![alt text](image-34.png)
+
+median
+
+without merging 
+
+![alt text](image-35.png)
+just finding the index and of ele1 and ele 2 
+if odd ele2 is and and even ele1+ele2 /2
+not using arr3 to merge so no sc
+
+bs optimal
+
+symmetry apporach
+![alt text](image-36.png)
+
+![ ](image-37.png)
+
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+![alt text](image-40.png)
+
+![alt text](image-41.png)
