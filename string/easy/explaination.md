@@ -13,3 +13,9 @@ reverse string word
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+
+prefix
+
+![alt text](image-5.png)
+
+better -> sort array now check only first and last word for long
