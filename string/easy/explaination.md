@@ -19,3 +19,14 @@ prefix
 ![alt text](image-5.png)
 
 better -> sort array now check only first and last word for long
+
+isomorphic
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+using hasmap O(1)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
