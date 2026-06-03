@@ -30,3 +30,8 @@ roman_to_int
 
 atoi
 ![alt text](image-13.png)
+
+substring
+![alt text](image-14.png)
+
+![alt text](image-15.png)
