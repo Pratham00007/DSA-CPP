@@ -27,3 +27,6 @@ roman_to_int
 
 ![alt text](image-12.png)
 ![alt text](image-11.png)
+
+atoi
+![alt text](image-13.png)
