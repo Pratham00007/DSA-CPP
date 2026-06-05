@@ -31,3 +31,16 @@ before k
 ![alt text](image-10.png)
 
 ![alt text](image-11.png)
+
+reverse dl
+
+brute force
+![alt text](image-12.png)
+
+swap links in one go
+![alt text](image-13.png)
+
+tell interviewer about though process how 4 lines come
+like these 4 line come from asa we swap 2 number similary we can swap links
+
+![alt text](image-14.png)
