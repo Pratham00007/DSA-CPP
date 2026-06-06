@@ -110,3 +110,21 @@ instead going again to travese i am taking slow k distance away from fast till i
 ![alt text](image-39.png)
 
 ![alt text](image-40.png)
+
+sort ll
+brute
+![alt text](image-41.png)
+
+merge sort on ll
+![ ](image-42.png)
+
+merge logic
+![alt text](image-43.png)
+
+![alt text](image-44.png)
+
+![alt text](image-45.png)
+
+![alt text](image-46.png)
+
+![alt text](image-47.png)
