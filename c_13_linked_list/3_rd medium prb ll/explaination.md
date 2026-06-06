@@ -54,3 +54,14 @@ where they collide again its loop starting
 ![alt text](image-17.png)
 ![alt text](image-19.png)
 ![ ](image-18.png)
+
+length of loop
+![alt text](image-20.png)
+![alt text](image-22.png)
+![alt text](image-21.png)
+
+optimsl
+![ ](image-23.png)
+![alt text](image-24.png)
+
+![alt text](image-25.png)
