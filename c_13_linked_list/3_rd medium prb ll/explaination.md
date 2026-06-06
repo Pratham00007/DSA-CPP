@@ -27,3 +27,17 @@ recursive reverse
 ![alt text](image-10.png)
 
 ![alt text](image-11.png)
+
+loop 
+
+sir brute store full node in stack
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+no sc
+tortoise and hare approach
+![alt text](image-14.png)
+
+if loop distacne wil be 0
+![alt text](image-15.png)
