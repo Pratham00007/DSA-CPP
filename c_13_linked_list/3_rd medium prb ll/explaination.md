@@ -81,3 +81,23 @@ uisng the tortoise and hare in even stop in m1 insted of m2
 ![alt text](image-29.png)
 
 ![alt text](image-30.png)
+
+odd_even
+
+brute
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+![alt text](image-33.png)
+
+better
+linking
+![alt text](image-34.png)
+
+5->6 still
+![alt text](image-35.png)
+
+![alt text](image-36.png)
+
+![alt text](image-37.png)
