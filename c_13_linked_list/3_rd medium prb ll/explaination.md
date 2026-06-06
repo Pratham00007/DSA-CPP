@@ -101,3 +101,12 @@ linking
 ![alt text](image-36.png)
 
 ![alt text](image-37.png)
+
+remove nth last better
+
+instead going again to travese i am taking slow k distance away from fast till it reaches last
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+
+![alt text](image-40.png)
