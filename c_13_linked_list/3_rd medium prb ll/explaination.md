@@ -41,3 +41,16 @@ tortoise and hare approach
 
 if loop distacne wil be 0
 ![alt text](image-15.png)
+
+lop staring
+brute same map ds
+optimal
+tortoise and hare
+![alt text](image-16.png)
+
+stop fast at first collision and take slow to start 
+now move both by 1 step now
+where they collide again its loop starting
+![alt text](image-17.png)
+![alt text](image-19.png)
+![ ](image-18.png)
