@@ -65,3 +65,19 @@ optimsl
 ![alt text](image-24.png)
 
 ![alt text](image-25.png)
+
+palindrome
+using stack
+![alt text](image-26.png)
+
+avoid sc
+find middle reverse links of second half
+check for palin and againg revese back the second half
+
+uisng the tortoise and hare in even stop in m1 insted of m2
+![alt text](image-27.png)
+
+![alt text](image-28.png)
+![alt text](image-29.png)
+
+![alt text](image-30.png)
