@@ -189,3 +189,13 @@ OPTIMAL BY RECURSION BCS IT HAS BACKTRACKING no reversing ll now
 ![alt text](image-73.png)
 
 ![alt text](image-74.png)
+
+sum 2
+![alt text](image-75.png)
+
+![alt text](image-76.png)
+![alt text](image-77.png)
+
+![alt text](image-78.png)
+![alt text](image-79.png)
+![alt text](image-80.png)
