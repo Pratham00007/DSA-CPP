@@ -128,3 +128,11 @@ merge logic
 ![alt text](image-46.png)
 
 ![alt text](image-47.png)
+
+better sort012
+
+![alt text](image-48.png)
+
+![alt text](image-49.png)
+
+![alt text](image-50.png)
