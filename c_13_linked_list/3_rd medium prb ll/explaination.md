@@ -136,3 +136,33 @@ better sort012
 ![alt text](image-49.png)
 
 ![alt text](image-50.png)
+
+intersection
+using map, first repeating *node* is intersextion
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+![alt text](image-53.png)
+
+no sc
+start with same vertical hight so move larger ll by d distnce
+![alt text](image-54.png)
+
+![alt text](image-55.png)
+![alt text](image-56.png)
+
+![alt text](image-57.png)
+
+more optimal
+
+move through when reach null take pointer to opposite ll
+
+![alt text](image-58.png)
+![alt text](image-60.png)
+![alt text](image-59.png)
+
+![alt text](image-61.png)
+
+![alt text](image-62.png)
+
+![alt text](image-63.png)
