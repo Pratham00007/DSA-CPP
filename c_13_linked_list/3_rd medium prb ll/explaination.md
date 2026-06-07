@@ -166,3 +166,26 @@ move through when reach null take pointer to opposite ll
 ![alt text](image-62.png)
 
 ![alt text](image-63.png)
+
+add 1 
+
+sir brute
+![alt text](image-64.png)
+![alt text](image-65.png)
+
+![alt text](image-66.png)
+![alt text](image-67.png)
+
+OPTIMAL BY RECURSION BCS IT HAS BACKTRACKING no reversing ll now
+![alt text](image-68.png)
+
+![alt text](image-69.png)
+
+![alt text](image-70.png)
+
+![alt text](image-71.png)
+
+![alt text](image-72.png)
+![alt text](image-73.png)
+
+![alt text](image-74.png)
