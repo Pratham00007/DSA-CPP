@@ -37,3 +37,44 @@ optimal use its already vertical sorted and use node instead of creating
 ![alt text](image-18.png)
 
 ![alt text](image-19.png)
+
+clone ll
+![alt text](image-20.png)
+
+
+![alt text](image-21.png)
+
+now insert links
+![alt text](image-22.png)
+
+![alt text](image-23.png)
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+![alt text](image-26.png)
+
+optimal without hashmap
+
+1-> insert inbetween
+2-> add random pointers
+
+![alt text](image-27.png)
+
+now  3-> next pointer correct
+
+![alt text](image-28.png)
+
+![alt text](image-29.png)
+
+![alt text](image-30.png)
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+![alt text](image-33.png)
+
+![alt text](image-35.png)
+
+![alt text](image-36.png)
