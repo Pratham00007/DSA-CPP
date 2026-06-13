@@ -28,3 +28,20 @@ So, total complexity: O(C(n) × n)
 
 Space Complexity: O(n) recursion depth.
 O(C(n) × n) to store results.
+
+string powerset
+![alt text](image-2.png)
+
+![alt text](image.png)
+
+tc
+![alt text](image-1.png)
+
+recursive
+
+Use recursion to decide for each character whether to include it or not in the current subsequence. This forms a binary decision tree exploring all combinations.
+Start with an empty subsequence. For each character, recursively make a decision.
+Either include it in the subsequence or exclude it from the subsequence.
+When you reach the end of the string, print the current subsequence.
+
+
