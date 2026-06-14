@@ -111,3 +111,13 @@ Understanding subsequences and the ability to manipulate them through recursion 
 
 ![alt text](image-8.png)
 
+8
+
+brute
+
+![alt text](image-9.png)
+
+optimal
+![alt text](image-10.png)
+![ ](image-12.png)
+![alt text](image-11.png)
