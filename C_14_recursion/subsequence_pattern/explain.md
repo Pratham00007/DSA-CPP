@@ -98,3 +98,7 @@ Note: Generating all subsequences has exponential complexity. Use it wisely for 
 
 Conclusion
 Understanding subsequences and the ability to manipulate them through recursion and dynamic programming unlocks solutions to a wide variety of problems. From classic LIS and subset-sum to interview questions on palindromic subsequences, the concept is foundational in problem-solving.
+
+
+check_subsequence
+
