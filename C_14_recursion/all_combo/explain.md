@@ -32,3 +32,17 @@ LEFT UP DIAGONAL
 ![alt text](image-12.png)
 
 ![alt text](image-13.png)
+
+4_rat
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
+
+![alt text](image-17.png)
+![alt text](image-16.png)
+
+instead of 4 different 
+![alt text](image-18.png)
+
+![alt text](image-19.png)
