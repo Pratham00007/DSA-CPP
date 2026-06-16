@@ -56,3 +56,14 @@ graph color
 ![alt text](image-22.png)
 
 ![alt text](image-23.png)
+
+6_sudoku
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+
+![alt text](image-27.png)
+ 
+![alt text](image-26.png)
