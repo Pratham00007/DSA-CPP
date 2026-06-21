@@ -139,3 +139,41 @@ Q- toggle ith bit (reverse)
 ![alt text](image-40.png)
 
 ![alt text](image-41.png)
+
+Q- zero rightmost set
+
+![alt text](image-42.png)
+
+notice
+![alt text](image-43.png)
+
+why happens
+![alt text](image-44.png)
+
+![alt text](image-45.png)
+
+![alt text](image-46.png)
+
+Q check if power of 2
+
+no set bit 1 needed
+![alt text](image-47.png)
+
+![alt text](image-48.png)
+
+![alt text](image-49.png)
+
+Q- count no of set bits
+
+![alt text](image-50.png)
+
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+
+method 2
+do n& n-1 till in result all become zero
+![alt text](image-53.png)
+![alt text](image-54.png)
+
+![alt text](image-55.png)

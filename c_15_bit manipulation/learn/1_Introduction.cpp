@@ -25,6 +25,25 @@ string dec2bin(int num){
     return bin;
 }
 
+/*
+
+string dec2bin(int num){
+    
+    if (num == 0) return "0";
+
+    string bin = "";
+
+    while (num > 0) {
+        bin += (num % 2) + '0';
+        num /= 2;
+    }
+
+    reverse(bin.begin(), bin.end());
+    
+    return bin;
+}
+*/
+
 int bin2dec(string str){
     int n=str.length();
         int num=0;
