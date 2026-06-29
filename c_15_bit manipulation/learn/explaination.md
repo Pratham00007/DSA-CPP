@@ -177,3 +177,28 @@ do n& n-1 till in result all become zero
 ![alt text](image-54.png)
 
 ![alt text](image-55.png)
+
+divide without * and / opr
+
+brute
+
+![alt text](image-56.png)
+
+m-2
+![alt text](image-57.png)
+
+![alt text](image-58.png)
+
+![alt text](image-59.png)
+
+![alt text](image-60.png)
+
+![alt text](image-61.png)
+
+![alt text](image-62.png)
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+
+![alt text](image-65.png)
