@@ -34,3 +34,11 @@ now muitiple of two not prime so mark 0
 ![alt text](image-11.png)
 
 ![ ](image-12.png)
+
+pow 
+
+old repeat
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
