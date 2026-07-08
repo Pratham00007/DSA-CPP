@@ -132,3 +132,20 @@ take things s1 to s2
 ![alt text](image-57.png)
 
 ![alt text](image-58.png)
+
+
+L-2
+![alt text](image-59.png)
+take out and check is for vclosing it matches ?
+![alt text](image-60.png)
+yes so move ahead
+
+![alt text](image-61.png)
+![alt text](image-62.png)
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+
+![alt text](image-65.png)
+![alt text](image-66.png)
+
