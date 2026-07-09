@@ -149,3 +149,39 @@ yes so move ahead
 ![alt text](image-65.png)
 ![alt text](image-66.png)
 
+3_min_stack
+
+![alt text](image-67.png)
+
+![alt text](image-68.png)
+
+![alt text](image-69.png)
+![alt text](image-70.png)
+
+optimizing
+
+![alt text](image-71.png)
+
+but cant go back for min
+![alt text](image-72.png)
+
+insert modified value
+
+![alt text](image-73.png)
+
+![alt text](image-74.png)
+
+![alt text](image-75.png)
+
+![alt text](image-76.png)
+
+![alt text](image-77.png)
+![alt text](image-78.png)
+
+![alt text](image-79.png)
+
+![alt text](image-80.png)
+
+![alt text](image-81.png)
+
+![alt text](image-82.png)
