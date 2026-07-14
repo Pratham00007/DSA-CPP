@@ -121,3 +121,33 @@ finding individual contribution in ans
 ![alt text](image-44.png)
 
 ![alt text](image-45.png)
+
+![alt text](image-46.png)
+
+![alt text](image-47.png)
+
+![alt text](image-48.png)
+
+![ ](image-49.png)
+
+![alt text](image-50.png)
+
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+
+![alt text](image-53.png)
+just dont put into stack
+
+![alt text](image-54.png)
+
+![alt text](image-55.png)
+
+if
+![alt text](image-56.png)
+if stack empty then push -ve
+![alt text](image-57.png)
+
+![alt text](image-58.png)
+
+![alt text](image-59.png)
