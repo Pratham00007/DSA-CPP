@@ -151,3 +151,18 @@ if stack empty then push -ve
 ![alt text](image-58.png)
 
 ![alt text](image-59.png)
+
+7_sum
+
+![alt text](image-60.png)
+
+brute
+![alt text](image-61.png)
+
+optimal 
+
+![alt text](image-62.png)
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
