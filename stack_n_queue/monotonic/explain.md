@@ -97,3 +97,27 @@ smaller one prefred
 ![alt text](image-34.png)
 
 ![](image-35.png)
+
+5_min sum
+
+![alt text](image-36.png)
+
+![alt text](image-37.png)
+
+optimal
+finding individual contribution in ans
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
+![alt text](image-42.png)
+
+![alt text](image-43.png)
+
+![alt text](image-44.png)
+
+![alt text](image-45.png)
