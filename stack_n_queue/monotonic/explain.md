@@ -292,3 +292,26 @@ if element lefft over
 ![alt text](image-110.png)
 
 tc for traversing and poping
+
+
+10_max_rectangle
+
+![alt text](image-111.png)
+
+![alt text](image-112.png)
+
+visualise like histograms
+and find area max
+
+![alt text](image-113.png)
+
+![alt text](image-114.png)
+
+![alt text](image-115.png)
+
+![alt text](image-116.png)
+
+![alt text](image-117.png)
+
+![alt text](image-118.png)
+
