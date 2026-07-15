@@ -195,3 +195,100 @@ k exhaust so push every others
 ![alt text](image-75.png)
 
 ![alt text](image-76.png)
+
+8_ largest rectangle
+
+![alt text](image-77.png)
+
+![alt text](image-78.png)
+
+![alt text](image-79.png)
+
+![alt text](image-80.png)
+
+optimal
+
+we know pse but not nse need to solve this
+
+![alt text](image-81.png)
+
+![alt text](image-82.png)
+
+while kicking out 3 we have to compute 
+![alt text](image-83.png)
+
+![alt text](image-84.png)
+
+![alt text](image-85.png)
+
+push 10 into stack keep maintaing the inc order
+![alt text](image-86.png)
+
+dont comput for 10  bcs we dont know right
+![alt text](image-87.png)
+
+![alt text](image-88.png)
+
+![alt text](image-89.png)
+
+now so when coming back we compute for 11
+![alt text](image-90.png)
+
+![alt text](image-91.png)
+
+touched 11 so kiked out
+
+![alt text](image-92.png)
+
+we pse of 5 so kiking them out
+
+![alt text](image-93.png)
+
+tph fir raste mai 10 ka calculate kar diya
+![alt text](image-94.png)
+
+![alt text](image-95.png)
+
+![alt text](image-96.png)
+
+need pse of 6
+![alt text](image-97.png)
+
+![alt text](image-98.png)
+
+maintaing order so insert
+![alt text](image-99.png)
+
+![alt text](image-100.png)
+
+![alt text](image-101.png)
+
+![alt text](image-102.png)
+
+![alt text](image-103.png)
+
+2 untuched element left
+![alt text ](image-104.png)
+2 AND 3
+
+So if item left in stack so individual iteraion and also think hypothetical index 
+if nse and pse not present for that elemetn
+
+jaise 3 kae liye pse 2 tha but 2 ka pse nhi so -1 
+
+3 ka nse nahi so 8 index assumed
+
+![alt text](image-105.png)
+
+![alt text](image-106.png)
+
+![alt text](image-107.png)
+
+![alt text](image-108.png)
+
+if element lefft over
+![alt text](image-109.png)
+
+![alt text](image-110.png)
+
+tc for traversing and poping
