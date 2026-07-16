@@ -74,3 +74,49 @@ bcs they will be never previous greatest element
 ![alt text](image-25.png)
 
 ![alt text](image-26.png)
+
+
+3_celebrity
+
+0th person know 2 but not vice versa may exist or may not
+![alt text](image-27.png) 
+person 1 nown by 1 of the person so+1
+![alt text](image-28.png)
+
+![alt text](image-29.png)
+
+0 is known by someone
+![alt text](image-30.png)
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+![alt text](image-33.png)
+
+ans
+![ ](image-34.png)
+
+![alt text](image-35.png)
+
+OPTIMIZING
+![alt text](image-36.png)
+checked 0 know 3  m\no so 0 can be celebrity 
+3 knows 0 ? yes so 3 can t be celebrity now
+
+so eleminated 3
+
+![alt text](image-37.png)
+
+0 knows 2 so 0 cant be my celebrity
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+now to confirm if it is my celebrity
+
+![alt text](image-40.png)
+yes it is
+
+![alt text](image-41.png)
+
+![alt text](image-42.png)
