@@ -120,3 +120,61 @@ yes it is
 ![alt text](image-41.png)
 
 ![alt text](image-42.png)
+
+4_lru
+
+![alt text](image-43.png)
+
+bcs used recently
+![alt text](image-44.png)
+
+![alt text](image-45.png)
+
+not in stack and in max capacity cant insert
+![alt text](image-46.png)
+
+![alt text](image-47.png)
+
+![alt text](image-48.png)
+![alt text](image-49.png)
+
+![alt text](image-50.png)
+yaha le ke gaye then 7 dal diya instead
+
+using 
+![alt text](image-51.png)
+
+intial dummy
+![alt text](image-52.png)
+
+![alt text](image-53.png)
+
+![alt text](image-54.png)
+
+2 is present delete and insert into front
+
+![alt text](image-55.png)
+
+![alt text](image-56.png)
+
+![alt text](image-57.png)
+
+![alt text](image-58.png)
+new node for 5,6 wana toh puranie walo mai bas update new node nhi banatae bcs tc 
+
+![alt text](image-59.png)
+
+fianl ans
+![alt text](image-60.png)
+
+![alt text](image-61.png)
+
+![alt text](image-62.png)
+
+
+![alt text](image-64.png)
+
+![alt text](image-65.png)
+
+
+![alt text](image-63.png)
