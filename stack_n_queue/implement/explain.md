@@ -48,3 +48,29 @@ now next element is 5 and other were less so pop them too
 ![alt text](image-15.png)
 
 ![alt text](image-16.png)
+
+2_stock
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+used dynamic list
+
+optimizing
+![alt text](image-19.png)
+
+![alt text](image-20.png)
+
+kick from stack now
+![alt text](image-21.png)
+
+bcs they will be never previous greatest element
+![ ](image-22.png)
+
+![alt text](image-23.png)
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
