@@ -178,3 +178,64 @@ fianl ans
 
 
 ![alt text](image-63.png)
+
+5_lfu
+
+![alt text](image-66.png)
+
+![alt text](image-67.png)
+but ab 1 ki freq 2 ho gayi hai so ab 2 freq mai bhejo
+
+![alt text](image-68.png)
+
+![alt text](image-69.png)
+
+![alt text](image-70.png)
+
+![alt text](image-71.png)
+
+case of tie so lru removed
+
+![alt text](image-72.png)
+
+just used 3
+![alt text](image-73.png)
+so removed 1
+![alt text](image-74.png)
+
+
+![alt text](image-75.png)
+
+![alt text](image-76.png)
+
+![alt text](image-77.png)
+
+![alt text](image-78.png)
+
+![alt text](image-79.png)
+
+![alt text](image-80.png)
+
+tie so lru removed
+
+![alt text](image-81.png)
+
+![alt text](image-82.png)
+
+![alt text](image-83.png)
+
+![alt text](image-84.png)
+
+![alt text](image-85.png)
+
+![alt text](image-86.png)
+
+![alt text](image-87.png)
+
+![alt text](image-88.png)
+
+![alt text](image-89.png)
+
+![alt text](image-90.png)
+
+![alt text](image-91.png)
