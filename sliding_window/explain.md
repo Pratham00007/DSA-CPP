@@ -136,3 +136,34 @@ optimal O(n)
 
 ![alt text](image-53.png)
 ![alt text](image-52.png)
+
+4_Characters
+
+![alt text](image-54.png)
+
+![alt text](image-55.png)
+
+optimal
+![alt text](image-56.png)
+
+![alt text](image-57.png)
+
+![alt text](image-58.png)
+
+![alt text](image-59.png)
+
+![alt text](image-60.png)
+
+more optimize
+![alt text](image-61.png)
+
+![alt text](image-62.png)
+
+more optimizing to O(N)
+![alt text](image-64.png)
+![alt text](image-63.png)
+
+5_bianry
+![alt text](image-65.png)
+the earlier appraoch works but we can optimie it for binary
+
