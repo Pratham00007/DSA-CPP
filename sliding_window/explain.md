@@ -206,3 +206,31 @@ just previous odd=1 even=0
 ![alt text](image-83.png)
 
 ![alt text](image-82.png)
+
+7_no_substr
+
+![alt text](image-84.png)
+
+optimizing
+![alt text](image-85.png)
+no need to go further
+bcs they will be
+
+![alt text](image-86.png)
+O(n2)->O(n)
+more optimizing
+![alt text](image-87.png)
+
+see minimal of three index
+now we can add from strarting till this character
+![alt text](image-88.png)
+
+![alt text](image-89.png)
+
+![alt text](image-90.png)
+
+![alt text](image-91.png)
+
+![alt text](image-92.png)
+
+![alt text](image-93.png)
