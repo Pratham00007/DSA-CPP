@@ -199,3 +199,10 @@ jab tak goal se chota jitne sab aray ban ja rhe un sabko add kiya
 ![alt text](image-80.png)
 
 ![alt text](image-81.png)
+
+6_nice subarray
+
+just previous odd=1 even=0
+![alt text](image-83.png)
+
+![alt text](image-82.png)
