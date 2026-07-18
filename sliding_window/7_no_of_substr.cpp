@@ -21,7 +21,18 @@ are "ccab" , "ccabc" , "ccabcc" , "cab" , "cabc" , "cabcc" , "abc" , "abcc".
 
 #include<bits/stdc++.h>
 using namespace std;
+int no_substr(string s){
+    int lastsum[3]={-1,-1,-1};
+    int cnt=0;
+    for(int i=0;i<s.size();i++){
+        lastsum[s[i]-'a']=i;
+        if(lastsum[0]!=-1 && lastsum[1]!=-1 && lastsum[2]!=-1 ) {
+            cnt=cnt+(1+min(lastsum[0],lastsum[1],lastsum[2]));
 
+        }
+        return cnt;
+    }
+}
 int main(){
-    
+
 }
