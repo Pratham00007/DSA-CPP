@@ -22,6 +22,26 @@ There are 21 such subarrays in total (n(n+1)/2 = 6*7/2 = 21).
 #include<bits/stdc++.h>
 using namespace std;
 
+int bin_arr(vector<int>arr,int goal){
+    if(goal<0) return 0;
+    int l=0,r=0,sum=0,cnt=0;
+    while(r<arr.size()){
+        sum += arr[r];
+        while(sum>goal){
+            sum-=arr[l];
+            l++;
+        }
+        cnt=cnt+(r-l+1);
+        r=r+1;
+    }
+    return cnt;
+}
+
+int numSubarraysWithSum(vector<int>& nums, int goal) {
+        int ans=(bin_arr(nums,goal)-bin_arr(nums,goal-1));
+        return ans;
+    }
+
 int main(){
     
 }

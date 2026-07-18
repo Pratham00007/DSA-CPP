@@ -167,3 +167,35 @@ more optimizing to O(N)
 ![alt text](image-65.png)
 the earlier appraoch works but we can optimie it for binary
 
+![alt text](image-66.png)
+![alt text](image-67.png)
+![alt text](image-68.png)
+
+but we missed
+![alt text](image-69.png)
+and other bcs of zero
+
+so need other solution
+
+![alt text](image-70.png)
+![alt text](image-71.png)
+![alt text](image-72.png)
+
+jab tak goal se chota jitne sab aray ban ja rhe un sabko add kiya
+
+![alt text](image-73.png)
+![alt text](image-74.png)
+
+![alt text](image-75.png)
+
+![alt text](image-76.png)
+
+![alt text](image-77.png)
+
+![alt text](image-78.png)
+
+![alt text](image-79.png)
+
+![alt text](image-80.png)
+
+![alt text](image-81.png)
