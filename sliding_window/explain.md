@@ -234,3 +234,25 @@ now we can add from strarting till this character
 ![alt text](image-92.png)
 
 ![alt text](image-93.png)
+
+8_max_point
+
+brute
+all possibel making
+4 start no back
+3 start 1 back
+2 start 2 back
+1 start 3 back
+0 start 4 back
+
+![alt text](image-94.png)
+![alt text](image-95.png)
+![alt text](image-96.png)
+
+![alt text](image-97.png)
+![alt text](image-98.png)
+![alt text](image-99.png)
+so on
+
+![alt text](image-100.png)
+![alt text](image-101.png)
