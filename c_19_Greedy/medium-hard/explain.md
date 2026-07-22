@@ -104,3 +104,66 @@ cant perform last job
 
 to more optimize use dsu dijoint set union
 ![alt text](image-42.png)
+
+6_Candy
+
+![alt text](image-43.png)
+
+
+brute
+
+![alt text](image-44.png)
+so assign the max of two
+
+![alt text](image-45.png)
+
+![alt text](image-46.png)
+![alt text](image-47.png)
+![alt text](image-48.png)
+
+optimizing
+we will not store in right drect check it
+![alt text](image-49.png)
+
+![alt text](image-50.png)
+![alt text](image-51.png)
+![alt text](image-52.png)
+
+more potimizing removing extra space
+
+usng concept of slope
+![alt text](image-53.png)
+
+![alt text](image-54.png)
+
+we know we are distributing wrong candies but we want summation of candy
+ not the no to that student so we are giving in oppsite manner here
+
+ ![alt text](image-55.png)
+
+ since ther is flat so  was at upper
+
+ we are solving for the curves
+ ![alt text](image-56.png)
+ and peak wil take 7 not 4 bcs satisfy that left and right 
+
+ ![alt text](image-57.png)
+ ideal 
+ annd at upper taken 4 
+
+ ![alt text](image-58.png)
+
+ ![alt text](image-59.png)
+
+ code  
+
+ ![alt text](image-60.png)
+ ![alt text](image-61.png)
+
+ ![alt text](image-62.png)
+
+
+
+![alt text](image-64.png)
+ ![alt text](image-65.png)
+ ![alt text](image-63.png)
