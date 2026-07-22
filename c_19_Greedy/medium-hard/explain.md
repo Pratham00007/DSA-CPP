@@ -196,3 +196,33 @@ new interval dalna given intervals mai and overlaping hatana
 ![alt text](image-76.png)
 ![alt text](image-77.png)
 ![alt text](image-78.png)
+
+8_merge_subIntervals
+
+![alt text](image-79.png)
+
+![alt text](image-80.png)
+accumulated
+![alt text](image-81.png)
+so accumulate
+![alt text](image-82.png)
+
+![alt text](image-83.png)
+not overlapping so next others will surely not so dont check for others with this
+
+![alt text](image-84.png)
+now again think as 1 interval and check upcomings in this 
+
+![alt text](image-85.png)
+
+![alt text](image-86.png)
+
+![alt text](image-88.png)
+![alt text](image-87.png)
+
+skip checking for standing at one instead go ion one pass if its 
+joining prev join in it else form new 
+
+![alt text](image-89.png)
+
+![alt text](image-90.png)
