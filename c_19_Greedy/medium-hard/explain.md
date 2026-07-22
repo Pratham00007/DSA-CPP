@@ -226,3 +226,22 @@ joining prev join in it else form new
 ![alt text](image-89.png)
 
 ![alt text](image-90.png)
+
+9_non_overlapping
+
+![alt text](image-91.png)
+
+![alt text](image-92.png)
+
+contained full not the outer boundary touching mean overlap 
+in this que only others have 
+
+![alt text](image-93.png)
+
+![alt text](image-94.png)
+arranged in order of ending time
+
+![alt text](image-95.png)
+
+![alt text](image-96.png)
+![alt text](image-97.png)
