@@ -167,3 +167,32 @@ we know we are distributing wrong candies but we want summation of candy
 ![alt text](image-64.png)
  ![alt text](image-65.png)
  ![alt text](image-63.png)
+
+ 7_insert_interval
+
+new interval dalna given intervals mai and overlaping hatana
+ ![alt text](image-66.png)
+
+ ![alt text](image-67.png)
+
+ ![alt text](image-68.png)
+ ![alt text](image-69.png)
+
+ not overlap so put in ans
+ ![alt text](image-70.png)
+
+ overlap
+ ![alt text](image-71.png)
+
+ taking min of all and max of all
+
+ ![alt text](image-72.png)
+ ![alt text](image-73.png)
+
+ ![alt text](image-74.png)
+
+
+
+![alt text](image-76.png)
+![alt text](image-77.png)
+![alt text](image-78.png)
