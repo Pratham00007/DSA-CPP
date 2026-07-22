@@ -78,3 +78,29 @@ sorted
 
 ![alt text](image-32.png)
 ![alt text](image-31.png)
+
+5_job_Sequence
+
+![alt text](image-33.png)
+
+![alt text](image-34.png)
+
+sort by profit
+
+![alt text](image-35.png)
+![alt text](image-36.png)
+
+since day 6 already filled so  4th job taken to day day 5
+![alt text](image-37.png)
+
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+cant perform last job
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
+to more optimize use dsu dijoint set union
+![alt text](image-42.png)
