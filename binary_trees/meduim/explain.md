@@ -26,3 +26,25 @@ brute-> find the lh and rh of that node passing to get longest path from him
 ![alt text](image-9.png)
 
 ![alt text](image-10.png)
+
+
+4_max_sum
+
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+Ignore Negative Path sum
+![alt text](image-18.png)
+
+![alt text](image-19.png)
