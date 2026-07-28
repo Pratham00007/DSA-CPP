@@ -55,3 +55,15 @@ Ignore Negative Path sum
 just do travesal and check
 
 ![alt text](image-21.png)
+
+6_zig_zag
+
+![alt text](image-22.png)
+
+![alt text](image-23.png)
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
