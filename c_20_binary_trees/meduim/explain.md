@@ -67,3 +67,27 @@ just do travesal and check
 ![alt text](image-25.png)
 
 ![alt text](image-26.png)
+
+7_boundary_traversal
+
+![alt text](image-27.png)
+
+![alt text](image-28.png)
+
+go left of node
+![alt text](image-29.png)
+if not exist then go to right 
+
+5 was leaf so stopped (no left,right)
+
+![alt text](image-30.png)
+
+![alt text](image-35.png)
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+![alt text](image-33.png)
+
+![alt text](image-34.png)
