@@ -91,3 +91,35 @@ if not exist then go to right
 ![alt text](image-33.png)
 
 ![alt text](image-34.png)
+
+
+8_vertical_trav
+
+![alt text](image-37.png)
+
+![alt text](image-36.png)
+
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
+![alt text](image-42.png)
+
+![alt text](image-43.png)
+
+approcah
+![alt text](image-44.png)
+
+left mai jao to vertical -1 and level+1 
+right mai vertical +1 level +1
+mutiset to contain dublicate values too
+
+![alt text](image-45.png)
+
+![alt text](image-46.png)
+
+![alt text](image-47.png)
