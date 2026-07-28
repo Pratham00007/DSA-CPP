@@ -48,3 +48,10 @@ Ignore Negative Path sum
 ![alt text](image-18.png)
 
 ![alt text](image-19.png)
+
+5_check_identical
+
+![alt text](image-20.png)
+just do travesal and check
+
+![alt text](image-21.png)
