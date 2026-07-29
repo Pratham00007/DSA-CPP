@@ -213,3 +213,18 @@ to get left side view
 ![alt text](image-80.png)
 
 ![alt text](image-81.png)
+
+12_symetric
+
+![alt text](image-82.png)
+
+![alt text](image-83.png)
+
+simultaneos traversal
+![alt text](image-84.png)
+
+![alt text](image-85.png)
+
+![alt text](image-86.png)
+
+![alt text](image-87.png)
