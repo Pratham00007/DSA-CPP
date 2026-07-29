@@ -183,3 +183,33 @@ incase of colsion use right node
 ![alt text](image-70.png)
 
 ![alt text](image-71.png)
+
+11_right_view
+
+![alt text](image-72.png)
+
+![alt text](image-73.png)
+
+![alt text](image-74.png)
+
+reverse preopder
+
+root right left
+
+![alt text](image-75.png)
+inserted 3 bcs size of ds was same 
+
+reached end
+
+![alt text](image-76.png)
+
+didint inserted bcs size>level
+![alt text](image-77.png)
+
+![alt text](image-78.png)
+
+to get left side view
+![alt text](image-79.png)
+![alt text](image-80.png)
+
+![alt text](image-81.png)
