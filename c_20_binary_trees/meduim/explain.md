@@ -157,3 +157,29 @@ so not intserted
 
 used lo not recursive bcs for rec its the can take down node no tknow the heght since
 so another logic for height will be needed before inserting 
+
+
+10_bottom_view
+![alt text](image-60.png)
+![alt text](image-61.png)
+
+![alt text](image-62.png)
+incase of colsion use right node
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+
+![alt text](image-65.png)
+
+![alt text](image-66.png)
+
+![ ](image-67.png)
+
+![alt text](image-68.png)
+
+![alt text](image-69.png)
+
+![alt text](image-70.png)
+
+![alt text](image-71.png)
