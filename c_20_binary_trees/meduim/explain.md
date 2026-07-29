@@ -123,3 +123,37 @@ mutiset to contain dublicate values too
 ![alt text](image-46.png)
 
 ![alt text](image-47.png)
+
+9_top_view_bt
+
+![alt text](image-48.png)
+![alt text](image-49.png)
+
+![alt text](image-50.png)
+
+level order traverssal
+
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+
+![alt text](image-53.png)
+
+![alt text](image-54.png)
+
+since 0 already in the line 
+so not intserted
+![alt text](image-55.png) in the map
+
+![alt text](image-56.png)
+
+![alt text](image-57.png)
+
+![alt text](image-58.png)
+
+-2,-1,0,1,2 travesed
+
+![alt text](image-59.png)
+
+used lo not recursive bcs for rec its the can take down node no tknow the heght since
+so another logic for height will be needed before inserting 
