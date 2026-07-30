@@ -27,3 +27,38 @@ means both guy under you not null
 3 got not null values so returned 3
 
 ![alt text](image-9.png)
+
+
+3_width
+
+ans=2
+![alt text](image-10.png)
+
+ans=4
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
+
+cant use i to prevent overflow
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+
+![alt text](image-19.png)
+
+![alt text](image-20.png)
+
+![alt text](image-21.png)
+
+![alt text](image-22.png)
+
+![alt text](image-23.png)
