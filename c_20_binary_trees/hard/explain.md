@@ -105,3 +105,32 @@ move greedly
 ![alt text](image-35.png)
 
 ![alt text](image-36.png)
+
+
+6_burn_bt
+
+![alt text](image-37.png)
+
+![alt text](image-38.png)
+
+
+map for upward traversal
+
+![alt text](image-39.png)
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
+![alt text](image-42.png)
+
+![alt text](image-43.png)
+
+couldnt burned anyone so time not increased
+
+![alt text](image-44.png)
+
+![alt text](image-45.png)
+
+![alt text](image-46.png)
+
