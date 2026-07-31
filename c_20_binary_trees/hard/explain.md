@@ -80,5 +80,28 @@ it didint said minimum so we can add any no of times +1
 ![alt text](image-28.png)
 
 
-5_
+5_print_k_dis
 
+![alt text](image-29.png)
+
+Input: 
+root = [3, 5, 1, 6, 2, 0, 8, N, N, 7, 4] , target = 5, k = 2
+
+Output:
+[7,4,1]
+
+![alt text](image-30.png)
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+move greedly
+
+![alt text](image-33.png)
+
+![alt text](image-34.png)
+
+![alt text](image-35.png)
+
+![alt text](image-36.png)
