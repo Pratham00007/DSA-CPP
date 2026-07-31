@@ -62,3 +62,23 @@ cant use i to prevent overflow
 ![alt text](image-22.png)
 
 ![alt text](image-23.png)
+
+
+
+4_children
+
+![alt text](image-24.png)
+
+it didint said minimum so we can add any no of times +1
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+![alt text](image-28.png)
+
+
+5_
+
