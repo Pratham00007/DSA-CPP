@@ -152,3 +152,11 @@ so cant its not complete bt
  ![alt text](image-51.png)
 
  ![alt text](image-52.png)
+
+ Binary tree construction theory
+
+ ![alt text](image-53.png)
+
+ ![alt text](image-54.png)
+
+ ![alt text](image-55.png)
