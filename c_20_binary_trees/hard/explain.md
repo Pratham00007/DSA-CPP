@@ -134,3 +134,21 @@ couldnt burned anyone so time not increased
 
 ![alt text](image-46.png)
 
+
+
+7_no_of_node
+
+![alt text](image-47.png)
+
+![alt text](image-48.png)
+
+so cant its not complete bt
+![alt text](image-49.png)
+
+ so if hifht unequall
+ ![alt text](image-50.png)
+ 1+ lh+rh
+
+ ![alt text](image-51.png)
+
+ ![alt text](image-52.png)
