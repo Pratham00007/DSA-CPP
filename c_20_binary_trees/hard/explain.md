@@ -194,3 +194,20 @@ so cant its not complete bt
 ![alt text](image-68.png)
 
 ![alt text](image-69.png)
+
+
+
+10_ser_deser
+
+![alt text](image-70.png)
+
+![alt text](image-71.png)
+
+![alt text](image-72.png)
+
+
+![alt text](image-73.png)
+
+string stream allow to iterate string as object
+
+![alt text](image-74.png)
