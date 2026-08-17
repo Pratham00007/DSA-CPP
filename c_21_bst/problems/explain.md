@@ -11,3 +11,11 @@
 ![alt text](image-3.png)
 
 ![alt text](image-4.png)
+
+3_insert
+
+![alt text](image-5.png)
+
+since not given  insert as leaf node
+
+![alt text](image-6.png)
