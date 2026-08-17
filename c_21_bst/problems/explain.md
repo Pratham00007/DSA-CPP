@@ -19,3 +19,14 @@
 since not given  insert as leaf node
 
 ![alt text](image-6.png)
+
+4_delete
+
+2ways
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
