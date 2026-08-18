@@ -154,3 +154,24 @@ borrow logic from inorder
 
 ![alt text](image-43.png)
 
+11_two_sum
+
+brute
+store in arr then find
+![alt text](image-44.png)
+![alt text](image-45.png)
+
+we can only reduce sc
+![alt text](image-46.png)
+
+![alt text](image-47.png)
+push right
+
+![alt text](image-48.png)
+
+kam hai acesding wale ko barao
+bada toh 
+jada wale ko kam karo
+
+![alt text](image-49.png)
+![alt text](image-50.png)
