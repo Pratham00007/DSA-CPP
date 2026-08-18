@@ -107,3 +107,32 @@ but we only require upper bound
 3N bcs at max single node can be visited thrice
 
 ![alt text](image-28.png)
+
+9_inorder
+
+brute 
+![alt text](image-29.png)
+
+![alt text](image-30.png)
+
+better 
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+optimal
+
+![alt text](image-33.png)
+
+left will not have successor bcs value less than 8
+
+node>8 can be a successor
+![alt text](image-34.png)
+
+reached null so ans
+![alt text](image-35.png)
+
+![alt text](image-36.png)
+
+![](image-37.png)
