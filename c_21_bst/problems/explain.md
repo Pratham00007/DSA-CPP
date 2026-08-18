@@ -30,3 +30,20 @@ since not given  insert as leaf node
 
 ![alt text](image-9.png)
 
+5_KTH_SMaLL
+
+brute store in list by dfs travesAL
+![alt text](image-10.png)
+
+better
+
+inorder already sorted\
+![alt text](image-11.png)
+but sc O(n)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+if kth largest
+![alt text](image-14.png)
