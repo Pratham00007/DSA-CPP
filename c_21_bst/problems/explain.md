@@ -79,3 +79,31 @@ here 1
 java
 
 ![alt text](image-22.png)
+
+8_construct_bst
+
+brute
+
+![alt text](image-23.png)
+
+better
+
+inorder is sorted so got inorder
+now build 
+![alt text](image-24.png)
+
+optimal 
+
+using check if tree is bst techinque
+
+![alt text](image-25.png)
+lower and upper bound !!!
+
+but we only require upper bound
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+3N bcs at max single node can be visited thrice
+
+![alt text](image-28.png)
