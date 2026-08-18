@@ -47,3 +47,18 @@ but sc O(n)
 
 if kth largest
 ![alt text](image-14.png)
+
+
+6_validate_bt
+
+![alt text](image-15.png)
+
+right wala bara hona chaiye tha 5 se bhi so its not 
+ toh wk range le te hai usme hi lie karna chaiye
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+java
+![alt text](image-18.png)
