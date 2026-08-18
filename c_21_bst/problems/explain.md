@@ -136,3 +136,21 @@ reached null so ans
 ![alt text](image-36.png)
 
 ![](image-37.png)
+
+10_merge
+
+iterator logic
+
+![alt text](image-38.png)
+
+borrow logic from inorder
+![alt text](image-39.png)
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
+![alt text](image-42.png)
+
+![alt text](image-43.png)
+
