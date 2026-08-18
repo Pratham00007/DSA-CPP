@@ -62,3 +62,20 @@ right wala bara hona chaiye tha 5 se bhi so its not
 
 java
 ![alt text](image-18.png)
+
+7_lca
+
+jaha split waha answer
+
+![alt text](image-19.png)
+
+both didn't liw on left or right so thats the LCA
+![alt text](image-20.png)
+
+here 1
+
+![alt text](image-21.png)
+
+java
+
+![alt text](image-22.png)
