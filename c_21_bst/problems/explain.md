@@ -175,3 +175,24 @@ jada wale ko kam karo
 
 ![alt text](image-49.png)
 ![alt text](image-50.png)
+
+12_correct
+
+brute 
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+
+![alt text](image-53.png)
+adjacent ko chek karo agr phela wala bara
+dusre se toh voilation
+1st voilation index mark
+swap with second voilated mark index
+
+![alt text](image-54.png)
+swap first and last
+
+![alt text](image-55.png)
+if no second voilation found swap with middle ie next it
+
+![alt text](image-56.png)
