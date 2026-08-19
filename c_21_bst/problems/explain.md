@@ -196,3 +196,28 @@ swap first and last
 if no second voilation found swap with middle ie next it
 
 ![alt text](image-56.png)
+
+13_largest
+
+![alt text](image-57.png)
+
+ek node ko pass koro and check ifthat is valid bst like from up
+
+better
+
+![alt text](image-58.png)
+
+![alt text](image-59.png)
+
+![alt text](image-60.png)
+
+for 20 lhs not stisfying
+![alt text](image-61.png)
+
+![alt text](image-62.png)
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+
+![alt text](image-65.png)
