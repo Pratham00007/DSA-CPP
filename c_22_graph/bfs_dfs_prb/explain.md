@@ -96,3 +96,24 @@ graph in components
 ![alt text](image-39.png)
 
 ![alt text](image-40.png)
+
+
+5_detect_cycle_dfs
+
+![alt text](image-41.png)
+
+![alt text](image-42.png)
+
+![alt text](image-43.png)
+
+it returned true for 1 bcs visted so other will not check further
+returns true
+(changed 3 to understand better)
+
+![alt text](image-44.png)
+
+![alt text](image-45.png)
+
+![alt text](image-46.png)
+
+![alt text](image-47.png)
