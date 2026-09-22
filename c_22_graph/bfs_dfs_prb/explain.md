@@ -192,4 +192,3 @@ no of 1 where we cant go outside is answer
 ![alt text](image-76.png)
 
 ![alt text](image-75.png)
-
