@@ -192,3 +192,19 @@ no of 1 where we cant go outside is answer
 ![alt text](image-76.png)
 
 ![alt text](image-75.png)
+
+g_16
+
+![alt text](image-77.png)
+
+![alt text](image-78.png)
+
+![alt text](image-79.png)
+
+now store in set
+
+![alt text](image-80.png)
+
+![alt text](image-81.png)
+
+![alt text](image-82.png)
