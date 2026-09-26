@@ -42,3 +42,24 @@ both valid
 
 
 ![alt text](image-13.png)
+
+3_khans_algo it topo sort with bfs
+
+![alt text](image-15.png)
+
+![alt text](image-14.png)
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+took out 4
+![alt text](image-18.png)
+
+![alt text](image-19.png)
+
+HOW TO IND INDEGREE
+![alt text](image-20.png)
+
+just travese adj list
+
+![alt text](image-21.png)
