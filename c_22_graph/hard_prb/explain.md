@@ -183,3 +183,20 @@ but less is possible
 
 ![alt text](image-62.png)
 ![alt text](image-63.png)
+
+10_short_dist_1
+
+![alt text](image-64.png)
+
+![ ](image-65.png)
+
+![alt text](image-66.png)
+
+![alt text](image-67.png)
+if take lowest  
+
+![alt text](image-68.png)
+
+![alt text](image-69.png)
+
+![alt text](image-70.png)
