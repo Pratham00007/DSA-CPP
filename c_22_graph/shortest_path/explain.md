@@ -37,3 +37,10 @@ dig3 g34 comparison
 ![alt text](image-11.png)
 que is avoided so not get extra avoided path
 ![alt text](image-12.png)
+
+4 print shortest
+
+![       ](image-13.png)
+
+![alt text](image-14.png)
+
