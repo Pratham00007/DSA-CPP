@@ -57,3 +57,26 @@ it will store in ascending so no logn
 ![alt text](image-18.png)
 
 ![alt text](image-19.png)
+
+
+6_path_with_min_effort
+
+![alt text](image-20.png)
+
+![alt text](image-21.png)
+
+![alt text](image-22.png)
+
+![alt text](image-23.png)
+
+![alt text](image-24.png)
+
+![alt text](image-25.png)
+dont take directly as ans we get lower too
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+![alt text](image-29.png)
+![alt text](image-28.png)
