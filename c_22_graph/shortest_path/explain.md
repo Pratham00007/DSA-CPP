@@ -30,3 +30,10 @@ better so erase the 10,5
 
 ![alt text](image-10.png)
 erase take long time in set
+
+
+dig3 g34 comparison
+
+![alt text](image-11.png)
+que is avoided so not get extra avoided path
+![alt text](image-12.png)
