@@ -44,3 +44,16 @@ que is avoided so not get extra avoided path
 
 ![alt text](image-14.png)
 
+5_maze
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+we can directly store in que 
+it will store in ascending so no logn 
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+
+![alt text](image-19.png)
