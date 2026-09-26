@@ -141,3 +141,45 @@ as you find inquality thats the point
 
 ![alt text](image-47.png)
 ![alt text](image-46.png)
+
+
+9_shortest_path
+
+![alt text](image-48.png)
+
+![alt text](image-49.png)
+
+![alt text](image-50.png)
+
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+its valid topo sort
+
+![alt text](image-53.png)
+
+![alt text](image-54.png)
+
+src=0 oth=INF
+
+![alt text](image-55.png)
+3<INF
+
+![alt text](image-56.png)
+
+now completed now 5
+with dist 3
+
+![alt text](image-57.png)
+3+1=4
+but less is possible
+
+![alt text](image-58.png)
+
+![alt text](image-59.png)
+
+![alt text](image-60.png)
+![alt text](image-61.png)
+
+![alt text](image-62.png)
+![alt text](image-63.png)
