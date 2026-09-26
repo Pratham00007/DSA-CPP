@@ -59,3 +59,31 @@ dfs (6) says my adj s\have same of my color so flase
 
 ![alt text](image-18.png)
 
+![alt text](image-19.png)
+
+![alt text](image-20.png)
+
+7 found adj visited
+
+but cylce not came in same path 
+dfs will failed here
+
+![alt text](image-21.png)
+
+ so use path visited to majke sure it cane to the same path
+
+ ![alt text](image-22.png)
+
+ ![alt text](image-23.png)
+
+ this time 7 sind 5 visited but not mine path so not a cylce 
+
+ donn't check 5 we have checked
+ 
+![alt text](image-24.png)
+
+cycle present bcs vis and path vis true
+
+![alt text](image-25.png)
+
+![alt text](image-26.png)
