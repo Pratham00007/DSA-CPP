@@ -78,3 +78,25 @@ if topo size= v then noncylic elese cyclic
 here topo has 1 only so cyclic
 
 ![alt text](image-24.png)
+
+5_course_shedule
+
+![alt text](image-25.png)
+
+interlinked tasks are there if one perform then only 0
+
+![alt text](image-26.png)
+
+![alt text](image-27.png)
+
+![alt text](image-28.png)
+
+
+PART-2
+
+![alt text](image-29.png)
+
+given reversed + asked for order
+
+![alt text](image-31.png)
+![alt text](image-30.png)
