@@ -63,3 +63,18 @@ HOW TO IND INDEGREE
 just travese adj list
 
 ![alt text](image-21.png)
+
+
+4_cycle_detect
+
+use khans algo bcs it only apply on acyclic!!!
+
+![alt text](image-22.png)
+
+![alt text](image-23.png)
+
+if topo size= v then noncylic elese cyclic
+
+here topo has 1 only so cyclic
+
+![alt text](image-24.png)
