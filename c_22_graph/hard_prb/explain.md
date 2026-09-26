@@ -25,3 +25,20 @@ every one ends up in 7 so they all are  safe node
 ![alt text](image-6.png)
 
 ![alt text](image-7.png)
+
+2_topo
+
+![alt text](image-8.png)
+
+works in dag direccted acyclic grapgh
+
+both valid
+
+![alt text](image-9.png)
+
+![v](image-11.png)
+![alt text](image-12.png)
+![alt text](image-10.png)
+
+
+![alt text](image-13.png)
