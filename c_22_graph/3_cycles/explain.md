@@ -35,3 +35,27 @@ if not colored then we can color only with opp but if colored then check if opp 
 ![alt text](image-11.png)
 
 checking for the components 
+
+
+2_bp-2
+
+using dfs
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
+
+no after returning from 8 go to 5
+
+![alt text](image-15.png)
+
+dfs (6) says my adj s\have same of my color so flase
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+
