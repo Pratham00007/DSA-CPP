@@ -16,3 +16,17 @@ and now so on
 ![alt text](image-5.png)
 
 ![alt text](image-6.png)
+
+2_dig
+
+set store in unique and in ASCENDING ORDER
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+better so erase the 10,5
+
+![alt text](image-10.png)
+erase take long time in set
