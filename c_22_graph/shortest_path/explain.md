@@ -80,3 +80,43 @@ dont take directly as ans we get lower too
 
 ![alt text](image-29.png)
 ![alt text](image-28.png)
+
+7_flights
+
+![alt text](image-30.png)
+
+simple dikastra will not work out
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+![alt text](image-33.png)
+
+![alt text](image-34.png)
+
+stop=3 bcs its final node to goto
+
+![alt text](image-35.png)
+dist must not be priority of judgement 
+stops will be priority 
+bcs less dist takes to 4 but further not possible with that
+while higeher cost and low stop can take to final with 4
+
+so we dont apply dikastra normaaly
+no proirity queue
+
+solution
+
+![alt text](image-36.png)
+
+![alt text](image-37.png)
+
+![alt text](image-38.png)
+we are not using pq bcs queue is storing 
+as coming node are in acessnding
+so no extra logn
+
+and even if reach destination dont stop maybe another has better cost
+
+![alt text](image-39.png)
