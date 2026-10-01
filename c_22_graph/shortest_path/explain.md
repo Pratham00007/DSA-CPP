@@ -142,3 +142,25 @@ priority queue not needed
 already come in sorted
 
 ![alt text](image-46.png)
+
+
+9_arrive_destination
+
+![alt text](image-47.png)
+
+![alt text](image-48.png)
+
+so backtrace the target and see how many times those are visted 
+add them all thats answer
+
+![alt text](image-49.png)
+
+![alt text](image-50.png)
+
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+
+![alt text](image-53.png)
+
+![alt text](image-54.png)
