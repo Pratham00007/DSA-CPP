@@ -120,3 +120,25 @@ so no extra logn
 and even if reach destination dont stop maybe another has better cost
 
 ![alt text](image-39.png)
+
+8_min_multiply
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
+![alt text](image-42.png)
+
+![alt text](image-43.png)
+
+![alt text](image-44.png)
+
+since 30 is there with less step so dont dublicate 
+
+priority queue not needed
+
+![alt text](image-45.png)
+
+already come in sorted
+
+![alt text](image-46.png)
