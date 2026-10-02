@@ -191,3 +191,36 @@ INF+sth=INF
 
 ![alt text](image-62.png)
 ![alt text](image-61.png)
+
+
+
+11_floyd_warshall
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+
+precomputes: 0->2 2->4
+
+![alt text](image-65.png)
+
+![alt text](image-66.png)
+INF=UNREACHABLE FOR NOW
+
+if undirected then convert
+![alt text](image-67.png)
+
+![alt text](image-68.png)
+
+![alt text](image-69.png)
+
+![alt text](image-70.png)
+
+![alt text](image-71.png)
+after seeig logic we found to copy
+
+![alt text](image-72.png)
+
+![alt text](image-73.png)
+
+![alt text](image-74.png)
