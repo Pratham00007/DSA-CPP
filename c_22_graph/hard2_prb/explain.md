@@ -104,3 +104,44 @@ in last we see already connected so not reduced again
 
 ![alt text](image-36.png)
 ![alt text](image-37.png)
+
+
+5_large_island
+
+![alt text](image-38.png)
+
+
+![alt text](image-39.png)
+
+if convert 0->1 then largest island?
+
+![alt text](image-40.png)
+
+![alt text](image-41.png)
+
+to use disjoiont which need single no as parent 
+
+convert
+
+![alt text](image-42.png)
+
+total component
+
+![alt text](image-43.png)
+
+![alt text](image-44.png)
+
+![alt text](image-45.png)
+
+Edge Case
+
+using set
+
+![alt text](image-46.png)
+
+bcs it was taking 7 twice one for bottom and for left which are of same 
+so taken set and parent 
+
+![alt text](image-47.png)
+
+![alt text](image-48.png)
