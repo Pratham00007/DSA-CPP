@@ -224,3 +224,18 @@ after seeig logic we found to copy
 ![alt text](image-73.png)
 
 ![alt text](image-74.png)
+
+
+12_smallest_neighbour
+
+![alt text](image-75.png)
+
+![alt text](image-76.png)
+
+![alt text](image-77.png)
+
+looking for minimum city
+
+![alt text](image-78.png)
+
+![alt text](image-79.png)
