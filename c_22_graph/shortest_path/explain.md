@@ -164,3 +164,30 @@ add them all thats answer
 ![alt text](image-53.png)
 
 ![alt text](image-54.png)
+
+
+
+10
+BellmanFordAlgo
+
+find shortest path
+better than dijkastra bcs -ve cycle handling so avoid TLE(time limit exceed )
+but graph need directed
+so convert if its not
+
+![alt text](image-55.png)
+
+![alt text](image-56.png)
+
+![alt text](image-57.png)
+
+INF+sth=INF
+
+![alt text](image-58.png)
+
+![alt text](image-59.png)
+
+![alt text](image-60.png)
+
+![alt text](image-62.png)
+![alt text](image-61.png)
