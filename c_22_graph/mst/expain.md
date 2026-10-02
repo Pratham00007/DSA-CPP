@@ -90,3 +90,12 @@ Union by size not rank
 
 ![alt text](image-32.png)
 
+3_kruskal
+
+![alt text](image-33.png)
+
+![alt text](image-34.png)
+
+![alt text](image-35.png)
+
+![alt text](image-36.png)
