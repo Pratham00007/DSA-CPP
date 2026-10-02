@@ -66,3 +66,41 @@ go and inset to the parent
 
 ![alt text](image-24.png)
 ![alt text](image-25.png)
+
+
+4_island2
+
+![alt text](image-26.png)
+
+we give opr so that
+
+![alt text](image-27.png)
+
+we have 2 groups now
+
+![alt text](image-28.png)
+
+![alt text](image-29.png)
+
+now 1 group
+
+![alt text](image-30.png)
+
+![alt text](image-31.png)
+to know what belong to what
+
+![alt text](image-32.png)
+
+![alt text](image-33.png)
+1 lets if alone
+2 connect with up
+3 connect with right
+
+![alt text](image-34.png)
+
+![alt text](image-35.png)
+
+in last we see already connected so not reduced again
+
+![alt text](image-36.png)
+![alt text](image-37.png)
