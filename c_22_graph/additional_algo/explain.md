@@ -81,3 +81,40 @@ cant reach you its bridge
 
 ![alt text](image-23.png)
 ![alt text](image-24.png)
+
+3_articulation
+
+![alt text](image-25.png)
+
+![alt text](image-27.png)
+![alt text](image-26.png)
+
+![alt text](image-28.png)
+updated condition
+
+![alt text](image-29.png)
+
+![alt text](image-30.png)
+
+bs still single if parent removed here
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+so 2 cant be articulation for now bcs 3 still can be reached
+
+![alt text](image-33.png)
+
+![alt text](image-34.png)
+
+2 is articulation
+
+![alt text](image-35.png)
+
+if starting point has multiple points so can be ariculation
+
+use hash bcs can come as articulation multiple times for different loop
+
+![alt text](image-36.png)
+![alt text](image-37.png)
