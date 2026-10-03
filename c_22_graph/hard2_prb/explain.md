@@ -145,3 +145,47 @@ so taken set and parent
 ![alt text](image-47.png)
 
 ![alt text](image-48.png)
+
+6_stone
+
+![alt text](image-49.png)
+
+![alt text](image-50.png)
+
+![alt text](image-51.png)
+
+![alt text](image-52.png)
+
+![alt text](image-53.png)
+
+![alt text](image-54.png)
+cant remove 1
+
+take tham as connected componenets in graph
+
+![alt text](image-55.png)
+
+![alt text](image-56.png)
+
+x1+x2+...=n
+
+![alt text](image-57.png)
+
+![alt text](image-58.png)
+
+in connection use disjoint
+
+![alt text](image-59.png)
+
+![alt text](image-60.png)
+
+![alt text](image-61.png)
+
+bcs 5 parent is 0
+
+![alt text](image-62.png)
+
+![alt text](image-63.png)
+
+![alt text](image-64.png)
+
